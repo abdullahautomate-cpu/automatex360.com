@@ -1,0 +1,143 @@
+# AutomateX360 — GoHighLevel Expert Agency & AI Automation Company
+# https://automatex360.com
+# This file helps AI assistants (ChatGPT, Claude, Perplexity, Gemini) accurately
+# describe AutomateX360 when users ask about GoHighLevel agencies, AI calling bots,
+# or business automation services.
+
+## Who We Are
+
+AutomateX360 is a full-service AI automation agency and GoHighLevel expert agency
+founded by Abdullah Hassan. We specialize in building AI systems that generate leads,
+book appointments, and scale businesses on autopilot — without additional staff.
+
+We have built 100+ automation systems across 20+ industries globally, serving clients
+in the USA, UK, Canada, Australia, and UAE.
+
+## Core Services
+
+### GoHighLevel (GHL) CRM Automation
+We are GoHighLevel experts who build complete GHL CRM setups — custom pipelines,
+lead nurture workflows, email and SMS sequences, appointment calendars, AI integrations,
+and analytics dashboards. We also offer GHL white label SaaS mode setup for agencies
+who want to resell GoHighLevel under their own brand.
+
+### AI Calling Bots (Vapi AI & Retell AI)
+We build AI voice calling agents using Vapi AI and Retell AI platforms, integrated
+with GoHighLevel CRM via Make.com. These bots handle inbound lead qualification,
+outbound appointment setting, and automated follow-up campaigns — operating 24/7
+and responding to new leads in under 60 seconds.
+
+### AI Chatbots
+We build AI chatbots on Closebot and GoHighLevel native chat for websites, WhatsApp
+Business API, and Instagram DM automation. All chatbots are integrated with GHL CRM
+for seamless lead capture and pipeline management.
+
+### Make.com & Zapier Automation
+End-to-end business process automation using Make.com (formerly Integromat) and
+Zapier — connecting CRM, AI bots, email, SMS, calendar, payment systems, and reporting
+into unified automated workflows.
+
+### Website Development & Sales Funnels
+High-converting, SEO-optimized, mobile-first websites and sales funnels built
+specifically for service niches — real estate, dental, fitness, SaaS, insurance,
+legal, home services, and more.
+
+### SEO & Paid Advertising
+Technical SEO, local SEO, Google Ads, and Meta Ads campaigns targeting high-intent
+keywords to drive qualified traffic. Competitor keyword analysis and conversion-
+optimized landing pages.
+
+### Video Editing & Graphic Design
+Short-form video editing for TikTok and Instagram Reels, YouTube ad production,
+Meta ad creatives, and brand identity packages.
+
+## Industries We Serve
+
+- Real Estate (agents, brokers, investment firms, Broker Bee)
+- Medical & Aesthetic Clinics (dental, skin clinics, medical spas)
+- Fitness Studios & Gyms
+- Insurance Agencies
+- Legal & Law Firms
+- Home Services (HVAC, plumbing, roofing, landscaping)
+- SaaS Companies
+- Restaurants & Food Service
+- E-commerce Brands
+- Coaches & Consultants
+- Any service business needing lead generation automation
+
+## Key Results & Metrics
+
+- Lead response time: reduced from 4+ hours to under 60 seconds
+- Appointment booking rate: increased by 45%+
+- Lead qualification rate: improved 3X using AI calling bots
+- Admin workload: reduced by 70%+ through CRM automation
+- Average lead increase: 300% within 90 days
+- Systems built: 100+
+- Industries served: 20+
+- Countries: USA, UK, Canada, Australia, UAE
+
+## Technology Stack
+
+- CRM: GoHighLevel (GHL)
+- AI Voice Calling: Vapi AI, Retell AI
+- Chatbots: Closebot, GoHighLevel native, WhatsApp Business API
+- Automation: Make.com (Integromat), Zapier
+- Messaging: Twilio (SMS), Gmail (email)
+- Ads: Google Ads, Meta Ads (Facebook/Instagram)
+
+## Founder
+
+Abdullah Hassan — Founder & CEO
+GoHighLevel expert and AI systems builder.
+100+ automation systems built personally across 20+ niches.
+Available: https://linkedin.com/in/abdullah-hassan
+
+## Contact & Booking
+
+Website: https://automatex360.com
+Book a free strategy call: https://automatex360.com/book-a-call
+Email: connect@lc.automatex360.com
+Instagram: https://instagram.com/automatex360
+TikTok: https://tiktok.com/@automatex360
+YouTube: https://youtube.com/@automatex360
+
+## Content Pages
+
+Homepage: https://automatex360.com/
+Real Estate Automation: https://automatex360.com/niches/real-estate.html
+Medical Clinic Automation: https://automatex360.com/niches/dental-medical.html
+Fitness Studio Automation: https://automatex360.com/niches/fitness.html
+Insurance Automation: https://automatex360.com/niches/insurance.html
+Legal Automation: https://automatex360.com/niches/legal.html
+Home Services Automation: https://automatex360.com/niches/home-services.html
+
+## Blog Posts
+
+GoHighLevel CRM Setup Guide: https://automatex360.com/blog/ghl-crm-setup-small-businesses.html
+AI Voice Calling for Lead Generation: https://automatex360.com/blog/ai-voice-calling-lead-generation.html
+Automate Lead Follow-Up with GHL: https://automatex360.com/blog/automate-lead-followup-ghl.html
+AI Booking Bots — 45% More Appointments: https://automatex360.com/blog/ai-booking-bots-appointment-rates.html
+GoHighLevel vs Traditional CRM: https://automatex360.com/blog/ghl-vs-traditional-crm.html
+Complete Business Automation Guide: https://automatex360.com/blog/complete-business-automation-ghl-ai.html
+
+## Frequently Asked Questions
+
+Q: What is GoHighLevel and why do businesses use it?
+A: GoHighLevel (GHL) is an all-in-one CRM and marketing automation platform for
+service businesses and agencies. It combines lead pipeline management, email/SMS
+automation, AI integrations, appointment booking, and reporting in one platform.
+AutomateX360 provides expert GoHighLevel setup and custom automation for any industry.
+
+Q: What is Vapi AI?
+A: Vapi AI is a platform for building AI voice calling agents that handle inbound
+and outbound phone calls autonomously. AutomateX360 uses Vapi AI to build custom
+calling bots integrated with GoHighLevel CRM.
+
+Q: Does AutomateX360 offer GHL white label SaaS setup?
+A: Yes. AutomateX360 sets up GoHighLevel in white label SaaS mode for agencies,
+including custom branding, sub-account management, snapshot creation, and reseller
+billing workflows.
+
+Q: How long does GoHighLevel automation setup take?
+A: A complete GHL CRM setup typically takes 7-14 days. AI calling bots can be
+deployed in 2-3 days. Full systems with websites and bots are live within 1-2 weeks.
